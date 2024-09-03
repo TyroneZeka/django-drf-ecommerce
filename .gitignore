@@ -1,7 +1,10 @@
 .vscode
 .env
 venv/
+*migrations
+migrations
 .pytest_cache
 **__pycache__/
 db.sqlite3
+schema.yaml
 .coverage
